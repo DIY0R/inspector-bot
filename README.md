@@ -1,0 +1,1 @@
+### This bot was commissioned a year ago, and I have decided to make it open source. I aimed to leverage Inversion of Control (IoC) principles with the [Inversify](https://github.com/inversify/InversifyJS) and [Telegraf](https://telegraf.js.org/). This project demonstrates how to use IoC containers to build maintainable bots in Node.js.
