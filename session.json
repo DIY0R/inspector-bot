@@ -1,0 +1,37 @@
+{
+  "sessions": [
+    {
+      "id": "1319955511:1319955511",
+      "data": {
+        "__scenes": {},
+        "role": "INSPECTOR",
+        "lan": "UZB",
+        "replyId": 0
+      }
+    },
+    {
+      "id": "944251828:944251828",
+      "data": {
+        "__scenes": {},
+        "role": "STUDENT",
+        "lan": "UZB"
+      }
+    },
+    {
+      "id": "6404280736:6404280736",
+      "data": {
+        "__scenes": {},
+        "role": "STUDENT",
+        "lan": "UZB"
+      }
+    },
+    {
+      "id": "-1002064715281:1319955511",
+      "data": {
+        "__scenes": {},
+        "role": "STUDENT",
+        "lan": "UZB"
+      }
+    }
+  ]
+}
